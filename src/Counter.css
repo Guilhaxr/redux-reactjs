@@ -1,0 +1,18 @@
+
+
+.counter__component{
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.counter__result{
+    display: flex;
+    justify-content: center;
+}
+
+.counter__buttons{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+ 
